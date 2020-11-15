@@ -1,5 +1,30 @@
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 h2 {
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
+a  {
+    text-align: center;
+}
+.myButton {
+	background-color:#ff0000;
+	border-radius:42px;
+	border:2px solid #ff0000;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:'Montserrat', sans-serif;
+	font-size:17px;
+	padding:10px 12px;
+	text-decoration:none;
+    float:none
+}
+.myButton:hover {
+	background-color:#b80000;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+        
