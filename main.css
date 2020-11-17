@@ -1,7 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+body {
+    background-color: #36393E
+}
+
 h2 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    color: white
 }
 a  {
     text-align: center;
@@ -12,7 +18,7 @@ a  {
 	border:2px solid #ff0000;
 	display:inline-block;
 	cursor:pointer;
-	color:#000000;
+	color: white;
 	font-family:'Montserrat', sans-serif;
 	font-size:17px;
 	padding:10px 12px;
