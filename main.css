@@ -1,13 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 body {
-    background-color: #36393E
+    background-color: #36393E;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: white;
+    font-size:75px;
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    color: white
+    color: white;
 }
 a  {
     text-align: center;
@@ -23,7 +30,7 @@ a  {
 	font-size:17px;
 	padding:10px 12px;
 	text-decoration:none;
-    float:none
+    float:none;
 }
 .myButton:hover {
 	background-color:#b80000;
